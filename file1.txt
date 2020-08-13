@@ -1,2 +1,6 @@
 file 1 sample
+<<<<<<< HEAD
 hi the other line
+=======
+New line added
+>>>>>>> refs/heads/feature-1

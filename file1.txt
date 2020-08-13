@@ -1,8 +1,4 @@
-file 1 sample
-<<<<<<< HEAD
 hi the other line
 New line added
-=======
 New line added
 ther is another line
->>>>>>> refs/heads/feature-1

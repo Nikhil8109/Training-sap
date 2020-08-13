@@ -1,4 +1,4 @@
 file 1 sample
 hi the other line
 New line added
-
+New line added

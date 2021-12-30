@@ -100,4 +100,4 @@
 # print(z);
 # print(y.closed);
 # y.close();
-# print(y.closed);
+print(y.closed);

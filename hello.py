@@ -99,5 +99,5 @@
 # z = "hello" +" "+ y.read();
 # print(z);
 # print(y.closed);
-# y.close();
-print(y.closed);
+y.close();
+#print(y.closed);

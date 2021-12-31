@@ -95,7 +95,7 @@
 # x.close();
 # print(x.closed);
 
-# y = open("my.txt",'r');
+y = open("my.txt",'r');
  z = "hello" +" "+ y.read();
 # print(z);
 print(y.closed);

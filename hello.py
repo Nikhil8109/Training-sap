@@ -93,7 +93,7 @@
 # x = open("my.txt","w");
 # x.write("this is my file");
 # x.close();
-# print(x.closed);
+print(x.closed);
 
 y = open("my.txt",'r');
  z = "hello" +" "+ y.read();
